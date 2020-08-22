@@ -1,0 +1,8 @@
+First line
+<<<<<<< HEAD
+Second line from master
+=======
+Second line from branch
+>>>>>>> issue-90
+<b>important</b>
+Inserted
